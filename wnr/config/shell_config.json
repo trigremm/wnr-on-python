@@ -1,0 +1,8 @@
+{
+  "input_dir": "/home/hikuser/hikvision/192.168.1.64/",
+  "log_dir": "/home/hikuser/hikvision/log/",
+  "log_file": "/home/hikuser/hikvision/log/event_log.txt",
+  "output_dir": "/home/hikuser/hikvision/192.168.1.64_codes/",
+  "samples_file": "/home/hikuser/hikvision/log/samples_log.txt",
+  "archive_dir": "/home/hikuser/hikvision/192.168.1.64_archive/"
+}

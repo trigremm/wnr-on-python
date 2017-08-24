@@ -1,0 +1,7 @@
+{
+  "db": "hikdb",
+  "host": "localhost",
+  "password": "hikpassword",
+  "port": 3306,
+  "user": "hikuser"
+}

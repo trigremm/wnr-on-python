@@ -1,0 +1,7 @@
+{
+  "input_dir": "/home/hikuser//ftp_hikvision/input_img/",
+  "log_file": "/home/hikuser//ftp_hikvision/event_log.txt",
+  "output_dir": "/home/hikuser//ftp_hikvision/output_img/",
+  "samples_file": "/home/hikuser//ftp_hikvision/samples_log.txt",
+  "archive_dir": "/home/hikuser//ftp_hikvision/archive_img/"
+}
